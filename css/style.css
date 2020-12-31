@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../pexels-julien-brion-102061.jpg) no-repeat center center/cover;
+}
+.container{
+    position: relative;
+    top: 180px;
+    left: 500px;
+    width: 25rem;
+    height: 17rem;
+    background-color: rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    backdrop-filter: blur(20px);
+}
